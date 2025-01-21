@@ -16,6 +16,8 @@ Para la solucion del challenge se uso lo siguete:
 - MySQL Driver.
 - Validation.
 - Spring Security.
+- OpenAPI
+- springdoc-openapi
 
 ## Funcionalidades
     1 Registro de un nuevo tema.
